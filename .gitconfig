@@ -1,0 +1,8 @@
+[user]
+	email = alan.lira@customerx.cx
+	name = Alan Lira
+[alias]
+	st = status
+	rup = remote update --prune
+	wip = !git add . && git commit -m "WIP"
+	rbi-dev = rebase -i origin/develop
